@@ -13,6 +13,22 @@ O objetivo foi modelar e implementar um banco de dados para uma rede de clínica
 
 ---
 
+🌎 Minimundo
+
+A MedCorp é uma rede de clínicas médicas multidisciplinares que oferece consultas presenciais, exames laboratoriais e atendimentos especializados em diversas áreas da saúde.
+
+Cada unidade da clínica possui sua própria estrutura física, composta por salas de consulta e salas destinadas à realização de exames. Essas unidades contam com profissionais de saúde de diferentes especialidades, permitindo que os pacientes tenham acesso a diversos tipos de atendimento em um único sistema.
+
+Os pacientes podem realizar agendamentos para consultas e exames, sendo cada agendamento vinculado a um médico, uma sala e uma data específica. Durante o atendimento, o profissional responsável pode registrar informações clínicas em um prontuário eletrônico, armazenando dados importantes para o histórico médico do paciente.
+
+Além do gerenciamento clínico, o sistema também controla o faturamento dos atendimentos realizados. Cada consulta ou exame gera uma fatura contendo informações financeiras, como valor cobrado, forma de pagamento e situação do pagamento.
+
+O banco de dados foi desenvolvido para centralizar e organizar todas essas informações, garantindo integridade dos dados, redução de redundâncias e facilidade na geração de relatórios e consultas administrativas.
+
+Dessa forma, o sistema MedCorp permite o gerenciamento eficiente de pacientes, médicos, unidades, salas, agendamentos, prontuários e faturamento, simulando um ambiente real de gestão de clínicas médicas.
+
+---
+
 ## Objetivos
 
 - Gerenciar pacientes
