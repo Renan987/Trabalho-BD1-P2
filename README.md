@@ -1,6 +1,12 @@
 # Trabalho-BD1-P2
 # MedCorp - Sistema de Gestão de Clínicas Médicas
 
+# MedCorp - Sistema de Gestão de Clínicas Médicas
+
+![GitHub](https://img.shields.io/badge/Projeto-Banco%20de%20Dados-blue)
+![SQL](https://img.shields.io/badge/SQL-MySQL-orange)
+![CEFET](https://img.shields.io/badge/CEFET-RJ-red)
+
 ## Sobre o Projeto
 
 Este projeto foi desenvolvido para a disciplina de Banco de Dados I do CEFET-RJ.
