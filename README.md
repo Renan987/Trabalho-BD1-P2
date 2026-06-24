@@ -22,7 +22,7 @@ O objetivo foi modelar e implementar um banco de dados para uma rede de clínica
 
 ## Modelo Conceitual
 
-![Modelo Conceitual](modelo_conceitual.png)
+![Modelo Conceitual](modelo_conceitual.png.png)
 
 ---
 
