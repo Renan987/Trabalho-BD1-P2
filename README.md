@@ -83,13 +83,7 @@ O objetivo foi modelar e implementar um banco de dados para uma rede de clínica
 
 Tabelas implementadas:
 
-- pacientes
-- medicos
-- agendamentos
-- salas
-- unidades
-- prontuarios
-- faturas
+![Modelo Físico](modelo_fisico.png)
 
 ---
 
