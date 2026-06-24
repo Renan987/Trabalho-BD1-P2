@@ -96,7 +96,7 @@ Tabelas implementadas:
 
 ---
 
-## Autor
+## Aluno
 
 Renan Brilhante
 
